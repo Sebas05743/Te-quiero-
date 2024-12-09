@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Un Mensaje Bonito</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #ffe4e1;
+            text-align: center;
+        }
+        h1 {
+            color: #ff69b4;
+        }
+        p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>holaaa dulces sueños 🥰👑</h1>
+        <p>Eres la persona más especial para mí. Gracias por alegrar cada día de mi vida. Te amo muchísimo.</p>
+    </div>
+</body>
+</html>
